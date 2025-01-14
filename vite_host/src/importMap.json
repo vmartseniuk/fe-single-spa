@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "@learnSspa/mifeA": "http://localhost:3001/spa.js",
+        "@learnSspa/mifeB": "http://localhost:3002/spa.js"
+
+    }
+}
